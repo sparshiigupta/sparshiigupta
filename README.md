@@ -40,6 +40,6 @@
 
 </div>
 
-<summary><h2>Thanks For Visiting :heart: </h2></summary>
+<summary><h2>Thanks For Visiting  </h2></summary>
 
 [![Visits Badge](https://badges.pufler.dev/visits/sparshiigupta/sparshiigupta?style=for-the-badge)](https://github.com/sparshiigupta/)
